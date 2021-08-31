@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm zerkawei. 👋</h2>
 <p align="center">An overambitious developer from France.</p>
 
-I'm currently working on [Pecha](https://github.com/zerkawei/Pecha) and that's pretty much it.
+I'm not working on anything at the moment.
 
 -----
 <div align="center">
